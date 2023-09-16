@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://codeforces-stats-api.herokuapp.com/stats?username=NegodinaArina&theme=1
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=NegodinaArina&theme=1)
 <!--
 **negodinaarina/negodinaarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
