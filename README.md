@@ -1,5 +1,12 @@
 ### Hi there 👋
+
+### My Codeforces Stats
+
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=NegodinaArina&theme=1)
+
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+
+
 <!--
 **negodinaarina/negodinaarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
