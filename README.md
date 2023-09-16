@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-### My Codeforces Stats
-
 ![](https://raw.githubusercontent.com/negodinaarina/codeforces_card/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/negodinaarina/codeforces_card/output/light_card.svg)
 <!--
 **negodinaarina/negodinaarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
