@@ -1,4 +1,4 @@
-### Hi there 👋
+###ICT, ITMO University, St. Petersburg
 ![](https://raw.githubusercontent.com/negodinaarina/codeforces_card/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/negodinaarina/codeforces_card/output/light_card.svg)
 <!--
